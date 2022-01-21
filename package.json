@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "testcafe": "^1.18.1"
+  },
+  "scripts": {
+    "test": "testcafe safari tests/session2/fHomepage.js"
+  }
+}
